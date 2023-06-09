@@ -1,0 +1,42 @@
+body{
+    background-color: #9AC5F4;
+}
+.Profile{
+    text-align: center;
+    padding-left: 15% ;
+}
+hr{
+    border: 1px;
+    border-style:dashed;
+    margin: 0% 30%;
+    border-width: 2px;
+    border-spacing: 2px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+}
+#Skill-Section{
+    padding: 7% 15%;
+}
+#Experiences{
+    padding: 7% 15%;
+}
+#Contact{
+    text-align: center;
+    padding: 7% 40%;
+}
+
+.xyx-i{
+    margin: 30px;
+    color:#DB005B;
+}
+.xyx-l{
+    margin: 30px;
+    color:#0079FF;
+}
+.xyx-m{
+    margin: 30px;
+    color:#E8F6EF;
+}
